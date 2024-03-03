@@ -1,2 +1,2 @@
 # generic.test.x.bot
-X-files
+Readme for X-files
